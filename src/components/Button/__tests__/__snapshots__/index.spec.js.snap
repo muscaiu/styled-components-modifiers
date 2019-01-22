@@ -134,8 +134,7 @@ exports[`adds the secondary modifier 1`] = `
   </span>
   <span
     aria-hidden={true}
-    className="fa fa-undefined c2"
-    namse="home"
+    className="fa fa-home c2"
   />
 </button>
 `;

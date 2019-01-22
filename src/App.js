@@ -7,9 +7,9 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <Button modifiers={['primary']}>
-          <Icon name='home' />
-          <Text> Home</Text>
+        <Button modifiers={['secondary']}>
+          <Icon modifiers={['left']} name='home' />
+          <Text>Home</Text>
         </Button>
       </div>
     );
