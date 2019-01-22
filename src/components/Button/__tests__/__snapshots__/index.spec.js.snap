@@ -1,0 +1,186 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`adds the disabled modifier 1`] = `
+.c0 {
+  background-color: #7D7D7D;
+  border-radius: 2px;
+  border: solid 1px transparent;
+  color: #FFF;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+  outline: none;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  opacity: 50%;
+  pointer-events: none;
+}
+
+.c0:hover,
+.c0:focus {
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
+}
+
+.c2 {
+  font-size: 1rem;
+}
+
+.c1 {
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+<button
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    Login
+  </span>
+  <span
+    aria-hidden={true}
+    className="fa fa-home c2"
+  />
+</button>
+`;
+
+exports[`adds the primary modifier 1`] = `
+.c0 {
+  background-color: #7D7D7D;
+  border-radius: 2px;
+  border: solid 1px transparent;
+  color: #FFF;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+  outline: none;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  background-color: #7E5BEF;
+}
+
+.c0:hover,
+.c0:focus {
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
+}
+
+.c2 {
+  font-size: 1rem;
+}
+
+.c1 {
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+<button
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    Login
+  </span>
+  <span
+    aria-hidden={true}
+    className="fa fa-home c2"
+  />
+</button>
+`;
+
+exports[`adds the secondary modifier 1`] = `
+.c0 {
+  background-color: #7D7D7D;
+  border-radius: 2px;
+  border: solid 1px transparent;
+  color: #FFF;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+  outline: none;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+  background-color: #FFC82C;
+}
+
+.c0:hover,
+.c0:focus {
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
+}
+
+.c2 {
+  font-size: 1rem;
+}
+
+.c1 {
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+<button
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    Login
+  </span>
+  <span
+    aria-hidden={true}
+    className="fa fa-undefined c2"
+    namse="home"
+  />
+</button>
+`;
+
+exports[`renders correctly 1`] = `
+.c0 {
+  background-color: #7D7D7D;
+  border-radius: 2px;
+  border: solid 1px transparent;
+  color: #FFF;
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0.5rem 1.5rem;
+  outline: none;
+  -webkit-transition: all 200ms ease;
+  transition: all 200ms ease;
+}
+
+.c0:hover,
+.c0:focus {
+  background-color: #8a8a8a;
+  box-shadow: 0 8px 8px 0 rgba(100,100,100,0.4);
+}
+
+.c2 {
+  font-size: 1rem;
+}
+
+.c1 {
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+
+<button
+  className="c0"
+>
+  <span
+    className="c1"
+  >
+    Login
+  </span>
+  <span
+    aria-hidden={true}
+    className="fa fa-home c2"
+  />
+</button>
+`;
